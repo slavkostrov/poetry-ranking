@@ -143,7 +143,9 @@
 - менее очевидный инференс, поскольку он зависит от того, как мы выберем эталонные векторы стихов;
 - формирование троек также непростая задача.
 
-#### Вариант 3. Обучение cross-endoder
+#### Вариант 3. Обучение cross-endoderё
+
+Идея: https://github.com/UKPLab/sentence-transformers/blob/master/examples/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb
 
 #### Доп. улучшения
 
@@ -155,3 +157,9 @@
 
 TBD
 
+### Источники
+
+- https://github.com/UKPLab/sentence-transformers/blob/master/examples/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb
+- https://habr.com/ru/articles/797657/
+- https://neerajku.medium.com/document-ranking-using-bert-a4b00eb258c4
+- https://github.com/Guzpenha/transformer_rankers
